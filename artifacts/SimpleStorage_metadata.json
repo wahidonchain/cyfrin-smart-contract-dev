@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"1. SimpleStorage - Basic Variable Types.sol": "SimpleStorage"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"1. SimpleStorage - Basic Variable Types.sol": {
+			"keccak256": "0xf786a22d4624ca684215458e2301d5ba739da2cc93abd5ebbaccea8a9874445a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f0dac51d18d6144329164207f6f4a372a61a7f8c9d7927e001e1f27a70ff3536",
+				"dweb:/ipfs/QmVbpq93h1uQaRr8naxcGNRkF78xQr44JoGVDL7ge4v1Pd"
+			]
+		}
+	},
+	"version": 1
+}
