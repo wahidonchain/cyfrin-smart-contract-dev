@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"1.2 SimpleStorage - Basic Variable Types.sol": {
-			"keccak256": "0x6ebf9896f025a7d7d3b68b5d424204fa35f40a8cbe2e6fd0e906fce27c3df673",
+			"keccak256": "0xe5262f37edb34529c2e76196b3f2d0bd1be3b33e2d9f03ab833c178d36fd7ddd",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://0f9a0795942835f1d95abf935f88702bd542663b29c46e578a90707bd0c3ee99",
-				"dweb:/ipfs/QmZPYhNMsLQUXTaN3p5LrE9odDNZX3MnEd3BHaErb8YGpH"
+				"bzz-raw://5aabd382c42b0560e0639c3cffc9d093e4c176d54311adc59c11b9efbd8d8eee",
+				"dweb:/ipfs/QmfYDEjZfSdM519RofUDuLyeT6M7BzaV85VfvExuG1DXMV"
 			]
 		}
 	},
