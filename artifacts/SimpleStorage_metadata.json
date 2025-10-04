@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"1. SimpleStorage - Basic Variable Types.sol": "SimpleStorage"
+			"1.2 SimpleStorage - Basic Variable Types.sol": "SimpleStorage"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"1. SimpleStorage - Basic Variable Types.sol": {
-			"keccak256": "0xf786a22d4624ca684215458e2301d5ba739da2cc93abd5ebbaccea8a9874445a",
+		"1.2 SimpleStorage - Basic Variable Types.sol": {
+			"keccak256": "0x6ebf9896f025a7d7d3b68b5d424204fa35f40a8cbe2e6fd0e906fce27c3df673",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f0dac51d18d6144329164207f6f4a372a61a7f8c9d7927e001e1f27a70ff3536",
-				"dweb:/ipfs/QmVbpq93h1uQaRr8naxcGNRkF78xQr44JoGVDL7ge4v1Pd"
+				"bzz-raw://0f9a0795942835f1d95abf935f88702bd542663b29c46e578a90707bd0c3ee99",
+				"dweb:/ipfs/QmZPYhNMsLQUXTaN3p5LrE9odDNZX3MnEd3BHaErb8YGpH"
 			]
 		}
 	},
