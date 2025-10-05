@@ -4,7 +4,47 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"name": "favoriteNumber",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "retrieve",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_favoriteNumber",
+						"type": "uint256"
+					}
+				],
+				"name": "store",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +58,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"1.2 SimpleStorage - Basic Variable Types.sol": "SimpleStorage"
+			"1.3 SimpleStorage - Functions.sol": "SimpleStorage"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -32,12 +72,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"1.2 SimpleStorage - Basic Variable Types.sol": {
-			"keccak256": "0xc624031d9c68072516d064bc33ccd0c21a184dca0ae40dbac1e4c2a342df2d56",
+		"1.3 SimpleStorage - Functions.sol": {
+			"keccak256": "0xb6565f3edd3cc86f2a7b46f1de289d66930f786b76c6917716a76cfd06e8b3be",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://fadbb62479d4c91278bf068e14201d0562402f3c1c9e13fc020077f828b540cd",
-				"dweb:/ipfs/QmQ3W64HzPUHiv5ib2BEcdyz1XWpcpsS6TzinPZcdEjyw6"
+				"bzz-raw://00036a580d6296f350d631a08f7e915d631c67bcfc1af0a5de3f2123ed00c128",
+				"dweb:/ipfs/QmSYymw7jyHQm3NNmEUVszUotJVZDqb8j9ubUxqpMw8q8z"
 			]
 		}
 	},
