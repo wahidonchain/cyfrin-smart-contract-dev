@@ -6,13 +6,42 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [],
-				"name": "favoriteNumber",
-				"outputs": [
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_favoriteNumber",
+						"type": "uint256"
+					}
+				],
+				"name": "addPerson",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
 					{
 						"internalType": "uint256",
 						"name": "",
 						"type": "uint256"
+					}
+				],
+				"name": "listOfPeople",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "favoriteNumber",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "name",
+						"type": "string"
 					}
 				],
 				"stateMutability": "view",
@@ -58,7 +87,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"1.3 SimpleStorage - Functions.sol": "SimpleStorage"
+			"1.4 SimpleStorage  - Arrays and Structs.sol": "SimpleStorage"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -72,12 +101,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"1.3 SimpleStorage - Functions.sol": {
-			"keccak256": "0xb6565f3edd3cc86f2a7b46f1de289d66930f786b76c6917716a76cfd06e8b3be",
+		"1.4 SimpleStorage  - Arrays and Structs.sol": {
+			"keccak256": "0xbbc0897e99e02c973e04422dfc820f26bb464152034541ace865c9f3f4777bd3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://00036a580d6296f350d631a08f7e915d631c67bcfc1af0a5de3f2123ed00c128",
-				"dweb:/ipfs/QmSYymw7jyHQm3NNmEUVszUotJVZDqb8j9ubUxqpMw8q8z"
+				"bzz-raw://5f97e2dfe3354a584b031153e92f90fedc9bf6659092993bed1415a309c87b76",
+				"dweb:/ipfs/QmVHncQs6V2ENu9xd8Jhfyd9SpNdLcWMxMdXxphpJivaqT"
 			]
 		}
 	},
