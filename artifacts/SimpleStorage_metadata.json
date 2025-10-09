@@ -87,7 +87,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"1.4 SimpleStorage  - Arrays and Structs.sol": "SimpleStorage"
+			"1.5 SimpleStorage  - Memory, Storage and Calldata.sol": "SimpleStorage"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -101,12 +101,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"1.4 SimpleStorage  - Arrays and Structs.sol": {
-			"keccak256": "0xbbc0897e99e02c973e04422dfc820f26bb464152034541ace865c9f3f4777bd3",
+		"1.5 SimpleStorage  - Memory, Storage and Calldata.sol": {
+			"keccak256": "0x0dad6aebd768eca393360f347e214ac15e526a187e3521c93271959a2550baff",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5f97e2dfe3354a584b031153e92f90fedc9bf6659092993bed1415a309c87b76",
-				"dweb:/ipfs/QmVHncQs6V2ENu9xd8Jhfyd9SpNdLcWMxMdXxphpJivaqT"
+				"bzz-raw://60ace99ff64cfee4a2df697fde9e90662f7528ae005aa4543918612ad4807cc7",
+				"dweb:/ipfs/QmThQ7j9bHEFR9zR2jice5d1KZxBfyerCdus6SLap6VVgP"
 			]
 		}
 	},
